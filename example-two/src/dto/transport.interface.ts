@@ -1,0 +1,3 @@
+interface Transport {
+    id: String;
+}

@@ -14,4 +14,4 @@ This is a example about Strategy pattern
 ```
 
 ### Public section
-https://doctrina-del-desarrollador.vercel.app/techniques/strategy (in progress)
+https://doctrina-del-desarrollador.vercel.app/pattern-design/swagger (in progress)
